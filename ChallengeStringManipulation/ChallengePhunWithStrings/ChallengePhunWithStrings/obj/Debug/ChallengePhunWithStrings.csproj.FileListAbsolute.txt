@@ -1,0 +1,7 @@
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeStringManipulation\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
