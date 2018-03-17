@@ -1,0 +1,34 @@
+﻿body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #fff;
+    margin:10px auto;
+    width:900px;
+}
+
+#form1 {
+    background: #eae3ea;
+    margin: 5px;
+    padding: 25px;
+}
+
+.slots, 
+.status,
+#betTextBox {
+    text-align: center;
+}
+
+#betTextBox {
+    font-size: 30px;
+}
+
+.rules-container {
+    width: 500px;
+    line-height: 10px;
+    margin-left: 100px;
+}
+
+#pullLeverButton {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+}
