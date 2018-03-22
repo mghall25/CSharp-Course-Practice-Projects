@@ -5,3 +5,10 @@ C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\CS-ASP_
 C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
 C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
 C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
