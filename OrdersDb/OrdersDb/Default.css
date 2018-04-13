@@ -1,0 +1,50 @@
+﻿.wrapper {
+    max-width: 900px;
+    width: 90%;
+    opacity: 1;
+    background: #f8f8f6;
+}
+
+.inner-wrapper {
+    max-width: 500px;
+    width: 50%;
+    opacity: 1;
+    background: #f8f8f6;
+    padding: 2%;
+}
+
+.jumbotron {
+    border-bottom: 1px solid #bbb;
+    background: #f8f8f6;
+}
+
+.btn-toolbar .btn-label {
+    float: left;
+}
+
+/* restyle action buttons */
+.btn-primary {
+    color: #fff;
+    background-color: #c4122f;
+    border-color: #c4122f;
+    border-radius: 0;
+    margin: 1em auto;
+    box-shadow: 0;
+}
+
+    .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+        background-color: #8B0E04;
+        border-color: #8B0E04;
+        box-shadow: none;
+    }
+
+@media (max-width: 700px) {
+    #calcBtn {
+        width: 100%;
+    }
+}
+
+/* default error message to hidden */
+#orderErrorMsg {
+    display: none;
+}

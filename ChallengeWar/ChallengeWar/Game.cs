@@ -24,7 +24,9 @@ namespace ChallengeWar
             result += "<h1><strong>Begin battle</strong></h1>";
             for (int i = 0; i < 20; i++)
             {
-                if (player1.Cards.Count == 0 || player2.Cards.Count == 0) break;   
+                if (player1.Cards.Count == 0 || player2.Cards.Count == 0) break;
+
+                // new battle - note - I don't need to instantiate a battle because Battle is a statuc class
                 result+= Battle.BattleRound(player1, player2);
             }
             result += giveFinalScore(player1.Cards.Count, player2.Cards.Count);
