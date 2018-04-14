@@ -12,3 +12,17 @@ C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Persistence\bin\De
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.xml
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\OrdersDb.Persistence.dll.config
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\OrdersDb.Persistence.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\OrdersDb.Persistence.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\OrdersDb.DTO.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\OrdersDb.DTO.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\obj\Debug\OrdersDb.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\obj\Debug\OrdersDb.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\obj\Debug\OrdersDb.Persistence.csproj.CopyComplete
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\obj\Debug\OrdersDb.Persistence.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Persistence\obj\Debug\OrdersDb.Persistence.pdb

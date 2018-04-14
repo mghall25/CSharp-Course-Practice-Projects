@@ -132,3 +132,5 @@ C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersD
 C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb\obj\Debug\OrdersDb.csproj.CopyComplete
 C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb\obj\Debug\OrdersDb.dll
 C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb\obj\Debug\OrdersDb.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb\bin\EntityFramework.SqlServer.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb\bin\EntityFramework.SqlServer.xml

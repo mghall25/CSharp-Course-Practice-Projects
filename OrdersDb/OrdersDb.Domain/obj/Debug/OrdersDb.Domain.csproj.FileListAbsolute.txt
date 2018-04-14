@@ -12,3 +12,17 @@ C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Domain\bin\Debug\O
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.Persistence.dll.config
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Domain\bin\Debug\EntityFramework.xml
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.Domain\obj\Debug\OrdersDb.Domain.csproj.CopyComplete
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.Domain.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.Domain.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.DTO.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.Persistence.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\EntityFramework.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.DTO.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.Persistence.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\OrdersDb.Persistence.dll.config
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\bin\Debug\EntityFramework.xml
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\obj\Debug\OrdersDb.Domain.csprojResolveAssemblyReference.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\obj\Debug\OrdersDb.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\obj\Debug\OrdersDb.Domain.csproj.CopyComplete
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\obj\Debug\OrdersDb.Domain.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.Domain\obj\Debug\OrdersDb.Domain.pdb
