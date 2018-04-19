@@ -12,7 +12,7 @@ namespace OrdersDb.Persistence
         public static List<DTO.Order> GetOrders()
         {
             PapaBobsEntities db = new PapaBobsEntities();
-            var dbOrders = db.Orders.OrderBy(p=>p.Name).ToList();     
+            var dbOrders = db.Orders.OrderBy(p=>p.Name).ToList();  
 
             var dtoOrders = new List<DTO.Order>();
 

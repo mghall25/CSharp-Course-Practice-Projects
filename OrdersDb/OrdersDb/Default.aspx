@@ -82,6 +82,34 @@
 			        <h2 class="float:left">Total Cost:
                         <asp:Label ID="totalCostLabel" runat="server"></asp:Label>
                         </h2>
+                    <p class="float:left">&nbsp;</p>
+                    <p class="float:left">
+                        <asp:GridView ID="ordersGridView" runat="server" AutoGenerateColumns="False" BackColor="White" BorderColor="#999999" BorderStyle="None" BorderWidth="1px" CellPadding="3" DataKeyNames="OrderId" DataSourceID="SqlDataSource1" EmptyDataText="There are no data records to display." GridLines="Vertical">
+                            <AlternatingRowStyle BackColor="#DCDCDC" />
+                            <Columns>
+                                <asp:BoundField DataField="OrderId" HeaderText="OrderId" ReadOnly="True" SortExpression="OrderId" />
+                                <asp:BoundField DataField="Size" HeaderText="Size" SortExpression="Size" />
+                                <asp:BoundField DataField="Crust" HeaderText="Crust" SortExpression="Crust" />
+                                <asp:CheckBoxField DataField="Sausage" HeaderText="Sausage" SortExpression="Sausage" />
+                                <asp:CheckBoxField DataField="Pepperoni" HeaderText="Pepperoni" SortExpression="Pepperoni" />
+                                <asp:CheckBoxField DataField="Onion" HeaderText="Onion" SortExpression="Onion" />
+                                <asp:CheckBoxField DataField="Green_Pepper" HeaderText="Green_Pepper" SortExpression="Green_Pepper" />
+                                <asp:BoundField DataField="TotalCost" HeaderText="TotalCost" SortExpression="TotalCost" />
+                                <asp:CheckBoxField DataField="Completed" HeaderText="Completed" SortExpression="Completed" />
+                            </Columns>
+                            <FooterStyle BackColor="#CCCCCC" ForeColor="Black" />
+                            <HeaderStyle BackColor="#000084" Font-Bold="True" ForeColor="White" />
+                            <PagerStyle BackColor="#999999" ForeColor="Black" HorizontalAlign="Center" />
+                            <RowStyle BackColor="#EEEEEE" ForeColor="Black" />
+                            <SelectedRowStyle BackColor="#008A8C" Font-Bold="True" ForeColor="White" />
+                            <SortedAscendingCellStyle BackColor="#F1F1F1" />
+                            <SortedAscendingHeaderStyle BackColor="#0000A9" />
+                            <SortedDescendingCellStyle BackColor="#CAC9C9" />
+                            <SortedDescendingHeaderStyle BackColor="#000065" />
+                        </asp:GridView>
+                        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:PapaBobsConnectionString %>" SelectCommand="SELECT [OrderId], [Size], [Crust], [Sausage], [Pepperoni], [Onion], [Green Pepper] AS Green_Pepper, [TotalCost], [Completed] FROM [Orders]"></asp:SqlDataSource>
+                        </p>
+                    <p class="float:left">&nbsp;</p>
 			    </div>          
             </div>
         </div>

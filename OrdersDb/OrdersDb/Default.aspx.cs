@@ -60,8 +60,8 @@ namespace OrdersDb
         {
             var customers = Domain.OrderManager.GetOrders();
 
-            //customersGridView.DataSource = customers.ToList();
-            //customersGridView.DataBind();
+            ordersGridView.DataSource = customers.ToList();
+            ordersGridView.DataBind();
 
         }
     }

@@ -4,3 +4,9 @@ C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.DTO\obj\Debug\Orde
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.csproj.CoreCompileInputs.cache
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.dll
 C:\Users\mmjlh\Documents\Visual Studio 2017\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.DTO\bin\Debug\OrdersDb.DTO.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.DTO\bin\Debug\OrdersDb.DTO.pdb
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.csprojResolveAssemblyReference.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.csproj.CoreCompileInputs.cache
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.dll
+C:\Users\mmjlh\Documents\Visual Studio 2017\repos\CSharp Course Projects\OrdersDb\OrdersDb.DTO\obj\Debug\OrdersDb.DTO.pdb
