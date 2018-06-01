@@ -1,6 +1,4 @@
 # CSharp-Course-Practice-Projects
-Projects completed for Dev U course
+Projects completed as part of the C# course at The Tech Academy
 
-These are projects completed for the class "C# Fundamentals via ASP.NET Web Applications" a DevU course that is part of the curriculum at The Tech Academy.
-
-They illustrate my understanding of the material.
+Each folder contains a separate project.
